@@ -26,7 +26,7 @@ int main(){
 	long int f;
 	int N;	
 
-	cout <<"N"<< endl;
+	cout <<"Enter The Value of N"<< endl;
 	cin >> N;
 
 	f=fib(N);
